@@ -1,0 +1,38 @@
+{
+  "name": "@viewstools/create-react-app",
+  "version": "23.0.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewstools/create-react-app.git"
+  },
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/viewstools/create-react-app/issues"
+  },
+  "dependencies": {
+    "@reach/dialog": "^0.10.2",
+    "@viewstools/morph": "^23.4.0",
+    "@viewstools/use-masked-input": "^2.0.1",
+    "concurrently": "^5.2.0",
+    "customize-cra": "^0.9.1",
+    "customize-cra-react-refresh": "^1.0.1",
+    "emotion": "^10.0.27",
+    "graphql": "^15.0.0",
+    "graphql-tag": "^2.10.3",
+    "husky": "^4.2.5",
+    "immer": "^6.0.6",
+    "internal-ip": "^6.0.0",
+    "lint-staged": "^10.2.4",
+    "mousetrap": "^1.6.5",
+    "prettier": "^2.0.5",
+    "react-app-polyfill": "^1.0.6",
+    "react-app-rewired": "^2.1.6",
+    "react-spring": "^8.0.27",
+    "react-virtualized-auto-sizer": "^1.0.2",
+    "react-window": "^1.8.5",
+    "urql": "^1.9.7",
+    "use-media": "^1.4.0"
+  }
+}
