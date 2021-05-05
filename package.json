@@ -1,6 +1,6 @@
 {
   "name": "@viewstools/create-react-app",
-  "version": "24.0.0",
+  "version": "24.1.0",
   "private": false,
   "repository": {
     "type": "git",
@@ -13,12 +13,11 @@
   },
   "dependencies": {
     "@reach/dialog": "^0.10.2",
-    "@viewstools/morph": "^24.0.0",
+    "@viewstools/morph": "^24.9.1",
     "@viewstools/use-masked-input": "^2.0.1",
     "concurrently": "^5.2.0",
     "customize-cra": "^0.9.1",
     "customize-cra-react-refresh": "^1.0.1",
-    "emotion": "^10.0.27",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
     "husky": "^4.2.5",
