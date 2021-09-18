@@ -1,6 +1,6 @@
 {
   "name": "@viewstools/create-react-app",
-  "version": "24.2.0",
+  "version": "24.3.0",
   "private": false,
   "repository": {
     "type": "git",
@@ -31,7 +31,7 @@
     "react-spring": "^8.0.27",
     "react-virtualized-auto-sizer": "^1.0.2",
     "react-window": "^1.8.5",
-    "urql": "^1.9.7",
+    "urql": "^2.0.4",
     "use-media": "^1.4.0",
     "valtio": "^1.0.5"
   }
